@@ -1,0 +1,86 @@
+body,h1,h2,h3,h4,h5,h6, ul {font-family: "Raleway", sans-serif}
+
+
+body, html {
+    height: 100%;
+    line-height: 1.8;
+    background-color: #253c5e;
+    margin: 0;
+    padding: 0;
+    color: white;
+
+}
+
+h2{
+font-size: 12px;
+float: right;
+padding: 10px;
+border: 10px solid red;
+text-align: justify;
+}
+
+h1{
+  color: white;
+  font-size: 100px;
+  float: left;
+  background-color: #43608c;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2f5c9e;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #183156;
+
+}
+
+table{
+  padding: 0;
+  margin: 0;
+
+}
+
+h3{
+
+font-size: 30px;
+background-color: #4286f4;
+padding: 0;
+margin: 0;
+width: 100%;
+}
+
+
+p{
+  padding: 10px;
+  margin: 10px;
+}
+tr{
+  padding: 0;
+  margin: 0;
+}
+a{
+  padding: 0;
+  margin: 0;
+}
